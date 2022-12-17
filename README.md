@@ -5,6 +5,8 @@
 
 ### here are some code languages i use
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyFnf)](https://github.com/MyFnf/github-readme-stats)
+
 ![Lua-Logo svg](https://user-images.githubusercontent.com/113801267/201102390-1f1925e8-1b96-4d4f-bc20-b2f302b66072.png)
 ![Haxe_logo svg](https://user-images.githubusercontent.com/113801267/201102393-e9fbc61a-7528-4f5e-8a74-2ddbf6933c36.png)
 
