@@ -1,7 +1,16 @@
-## who am i?
+## Where to find me
 
-- im from many places
-- i make music,art,and games
+Scratch:https://scratch.mit.edu/users/Lil_Drippy_/
+
+GameBanana:https://gamebanana.com/members/2269173
+
+Reddit:https://www.reddit.com/user/MyFnf
+
+GameJolt:https://gamejolt.com/@MyFnf_ALT
+
+Discord:MyFnf#1698
+
+Twitter:https://twitter.com/lil_homie47
 
 ### here are some code languages i use
 
@@ -19,7 +28,7 @@
 ### here are some code languages i kinda use
 
 - C++
-- Java)
+- Java
 
 ### here are some friday night funkin' engines i made
 
