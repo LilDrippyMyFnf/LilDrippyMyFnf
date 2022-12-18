@@ -5,21 +5,18 @@
 
 ### here are some code languages i use
 
-
-![Lua-Logo svg](https://user-images.githubusercontent.com/113801267/201102390-1f1925e8-1b96-4d4f-bc20-b2f302b66072.png)
-![Haxe_logo svg](https://user-images.githubusercontent.com/113801267/201102393-e9fbc61a-7528-4f5e-8a74-2ddbf6933c36.png)
-![HaxeFlixel_logo svg](https://user-images.githubusercontent.com/113801267/201103110-2ce1e2d6-27cf-4f15-aac0-6fa672101f89.png)
-![png-transparent-logo-html5-brand-design-text-logo-number](https://user-images.githubusercontent.com/113801267/208263873-ff53356f-0e07-4a34-b796-1bd701c80f67.png)
-![logo-css-3-2048](https://user-images.githubusercontent.com/113801267/208263876-5740b63b-a836-4bce-ad3a-c62048fd2b19.png)
+- Haxe
+- HaxeFlixel
+- Lua
 
 
 ### here are some code languages i want to learn
 
-![695px-C_Programming_Language svg](https://user-images.githubusercontent.com/113801267/201103104-d0114dbd-f090-494c-a0cc-963277e9836f.png)
-![c-sharp-c-logo-02F17714BA-seeklogo com](https://user-images.githubusercontent.com/113801267/201103107-bd5a92a7-b5d2-48aa-9d75-80c46d647a3d.png)
-
+- C#
+- Java
+- C++
 
 ### here are some code languages i kinda use
 
-![ISO_C++_Logo svg](https://user-images.githubusercontent.com/113801267/201103109-bced2516-4bf4-4ef9-9e76-b084f162f7d3.png)
-![174-1746632_java-logo-transparent-png-java-programming-language-logo](https://user-images.githubusercontent.com/113801267/208263815-5b338330-66ed-4928-b10f-bf3d2df67881.png)
+- C++
+- Java
