@@ -19,4 +19,13 @@
 ### here are some code languages i kinda use
 
 - C++
-- Java
+- Java)
+
+### here are some friday night funkin' engines i made
+
+- [ Echo Engine ](https://github.com/LilDrippyMyFnf/Fnf-EchoEngine)
+- [ Bit Engine ](https://github.com/LilDrippyMyFnf/FNF-BitEnigne)
+
+### here are some game engines i made
+
+- [ Apatch Game Maker ](https://github.com/LilDrippyMyFnf/Apatch-Game-Maker)
